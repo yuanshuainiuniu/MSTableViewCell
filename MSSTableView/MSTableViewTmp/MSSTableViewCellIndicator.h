@@ -2,8 +2,8 @@
 //  MSSTableViewCellExpandedIndicatorView.h
 //  MSSTableView
 //
-//  Created by Sakkaras on 04/01/14.
-//  Copyright (c) 2014 Sakkaras. All rights reserved.
+//  Created by Marshal on 04/01/14.
+//  Copyright (c) 2014 Marshal. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>

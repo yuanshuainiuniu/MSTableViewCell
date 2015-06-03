@@ -2,8 +2,8 @@
 //  ViewController.h
 //  MSSTableView
 //
-//  Created by Sakkaras on 26/12/13.
-//  Copyright (c) 2013 Sakkaras. All rights reserved.
+//  Created by Marshal on 26/12/13.
+//  Copyright (c) 2013 Marshal. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>

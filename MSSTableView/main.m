@@ -3,7 +3,7 @@
 //  MSSTableView
 //
 //  Created by Netmera Inomera on 26/12/13.
-//  Copyright (c) 2013 Sakkaras. All rights reserved.
+//  Copyright (c) 2013 Marshal. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>
