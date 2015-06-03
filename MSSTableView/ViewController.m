@@ -92,11 +92,12 @@
     return [self.contents[indexPath.section][indexPath.row] count] - 1;
 }
 
+#pragma mark -- 初始化时是否展开
 - (BOOL)tableView:(MSSTableView *)tableView shouldExpandSubRowsOfCellAtIndexPath:(NSIndexPath *)indexPath
 {
     if (indexPath.section == 1 && indexPath.row == 0)
     {
-//        return YES;
+        return YES;
     }
     
     return NO;
